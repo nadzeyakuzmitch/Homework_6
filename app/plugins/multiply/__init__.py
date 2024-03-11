@@ -25,6 +25,7 @@ class MultiplyCommand(Command):
                 isWorking = False
             except Exception as e: # Catch-all for unexpected errors
                 print(f"An error occurred: {e}\n---------------\n")
+                logging.error(f"Error while executing command: {e}")
                 isWorking = False
 
 def multiply(a: Decimal, b: Decimal) -> Decimal:
