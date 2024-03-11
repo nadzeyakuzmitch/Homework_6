@@ -1,0 +1,206 @@
+2024-03-11 02:54:29,516 - root - INFO - Logging configured.
+2024-03-11 02:54:29,516 - root - INFO - Environment variables loaded.
+2024-03-11 02:54:29,523 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-11 02:54:29,523 - root - ERROR - Error importing plugin add: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:54:29,523 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,524 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,525 - root - ERROR - Error importing plugin divide: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:54:29,525 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-11 02:54:29,525 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,525 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,525 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,525 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,525 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,525 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,525 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,525 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,526 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,526 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,526 - root - ERROR - Error importing plugin exit: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:54:29,527 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,527 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,528 - root - ERROR - Error importing plugin menu: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:54:29,528 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-11 02:54:29,528 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,528 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,528 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,528 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,528 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,529 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,529 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,529 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,529 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,529 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,529 - root - ERROR - Error importing plugin multiply: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:54:29,530 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,530 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,531 - root - ERROR - Error importing plugin subtract: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:54:29,531 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-11 02:54:29,531 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,531 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,531 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,531 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,532 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,532 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,532 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,533 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,533 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:54:29,533 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,049 - root - INFO - Logging configured.
+2024-03-11 02:56:15,050 - root - INFO - Environment variables loaded.
+2024-03-11 02:56:15,056 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-11 02:56:15,056 - root - ERROR - Error importing plugin add: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:56:15,056 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,057 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,058 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,058 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,058 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,058 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,058 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,058 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,058 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,059 - root - ERROR - Error importing plugin add: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,059 - root - ERROR - Error importing plugin divide: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:56:15,059 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-11 02:56:15,059 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,060 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,060 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,060 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,060 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,060 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,060 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,061 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,061 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,061 - root - ERROR - Error importing plugin divide: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,061 - root - ERROR - Error importing plugin exit: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:56:15,061 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-11 02:56:15,062 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,062 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,062 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,062 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,062 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,062 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,062 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,062 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,062 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,063 - root - ERROR - Error importing plugin exit: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,063 - root - ERROR - Error importing plugin menu: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:56:15,064 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-11 02:56:15,064 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,064 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,064 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,064 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,064 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,065 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,065 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,065 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,065 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,065 - root - ERROR - Error importing plugin menu: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,065 - root - ERROR - Error importing plugin multiply: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:56:15,066 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,066 - root - ERROR - Error importing plugin multiply: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,067 - root - ERROR - Error importing plugin subtract: Can't instantiate abstract class Command with abstract method execute
+2024-03-11 02:56:15,067 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-11 02:56:15,067 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,067 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,067 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,067 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,067 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,068 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,068 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,068 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,068 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:56:15,068 - root - ERROR - Error importing plugin subtract: issubclass() arg 1 must be a class
+2024-03-11 02:58:37,273 - root - INFO - Logging configured.
+2024-03-11 02:59:24,816 - root - INFO - Logging configured.
+2024-03-11 03:00:02,319 - root - INFO - Logging configured.
+2024-03-11 03:00:02,320 - root - INFO - Environment variables loaded; Environment: DEVELOPMENT
+2024-03-11 03:00:02,329 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-11 03:00:02,330 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-11 03:00:02,331 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-11 03:00:02,332 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-11 03:00:02,333 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-11 03:00:02,334 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-11 03:01:05,817 - root - INFO - Logging configured.
+2024-03-11 03:01:05,817 - root - INFO - Environment variables loaded.
+2024-03-11 03:01:05,818 - root - INFO - Environment: DEVELOPMENT
+2024-03-11 03:01:05,824 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-11 03:01:05,825 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-11 03:01:05,825 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-11 03:01:05,826 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-11 03:01:05,826 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-11 03:01:05,827 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-11 03:03:27,044 - root - INFO - Logging configured.
+2024-03-11 03:03:27,044 - root - INFO - Environment variables loaded.
+2024-03-11 03:03:27,045 - root - INFO - Environment: DEVELOPMENT
+2024-03-11 03:03:27,053 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-11 03:03:27,054 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-11 03:03:27,055 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-11 03:03:27,055 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-11 03:03:27,056 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-11 03:03:27,057 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-11 03:03:45,955 - root - INFO - Logging configured.
+2024-03-11 03:03:45,955 - root - INFO - Environment variables loaded.
+2024-03-11 03:03:45,955 - root - INFO - Environment: DEVELOPMENT
+2024-03-11 03:03:45,962 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-11 03:03:45,962 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-11 03:03:45,963 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-11 03:03:45,963 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-11 03:03:45,964 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-11 03:03:45,964 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-11 03:08:31,855 - root - INFO - Logging configured.
+2024-03-11 03:08:31,855 - root - INFO - Environment variables loaded.
+2024-03-11 03:08:31,856 - root - INFO - Environment: DEVELOPMENT
+2024-03-11 03:08:31,870 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-11 03:08:31,872 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-11 03:08:31,873 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-11 03:08:31,874 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-11 03:08:31,875 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-11 03:09:03,089 - root - INFO - Logging configured.
+2024-03-11 03:09:03,090 - root - INFO - Environment variables loaded.
+2024-03-11 03:09:03,090 - root - INFO - Environment: DEVELOPMENT
+2024-03-11 03:09:03,096 - root - INFO - Command 'add' from plugin 'add' registered.
+2024-03-11 03:09:03,096 - root - INFO - Command 'divide' from plugin 'divide' registered.
+2024-03-11 03:09:03,097 - root - INFO - Command 'exit' from plugin 'exit' registered.
+2024-03-11 03:09:03,097 - root - INFO - Command 'menu' from plugin 'menu' registered.
+2024-03-11 03:09:03,098 - root - INFO - Command 'multiply' from plugin 'multiply' registered.
+2024-03-11 03:09:03,099 - root - INFO - Command 'subtract' from plugin 'subtract' registered.
+2024-03-11 03:09:06,175 - root - INFO - Displayed menu
+2024-03-11 03:09:16,252 - root - INFO - Operation result: 3
+2024-03-11 03:09:19,694 - root - INFO - Exiting app

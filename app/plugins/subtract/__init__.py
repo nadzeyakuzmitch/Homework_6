@@ -1,3 +1,4 @@
+import logging
 from decimal import Decimal
 from app.commands import Command
 
@@ -18,7 +19,9 @@ class SubtractCommand(Command):
                 isWorking = False
                 break
             try:
-                print(f"Result is:\na - b = {a} - {b} = {subtract(Decimal(a), Decimal(b))}\n---------------\n")
+                result = subtract(Decimal(a), Decimal(b))
+                print(f"Result is:\na - b = {a} - {b} = {result}\n---------------\n")
+                logging.info(f'Operation result: {result}')
                 isWorking = False
             except Exception as e: # Catch-all for unexpected errors
                 print(f"An error occurred: {e}\n---------------\n")
